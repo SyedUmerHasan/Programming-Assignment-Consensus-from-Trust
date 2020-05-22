@@ -3,6 +3,6 @@
 
 Kindly see ```SeeMe.gif``` to check the output
 
-
+# How to Run?
     javac *.java
     java Simulation 0.1 0.30 0.10 10
